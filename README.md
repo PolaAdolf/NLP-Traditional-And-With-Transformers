@@ -42,5 +42,5 @@ By implementing both a **Traditional NLP Pipeline** and a **Transformer-Based Pi
 
 1. Clone the repository.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Place your dataset in the `data/` folder.
+3. Place your dataset in the `data/` folder run src/download_data.py.
 4. Open the Jupyter notebooks in the `notebooks/` directory to follow the pipeline steps.
